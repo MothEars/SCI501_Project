@@ -1,0 +1,32 @@
+# Jupyter notebooks
+jupyterlab
+ipykernel
+ipywidgets
+nbformat
+
+# Data collection
+requests
+tqdm
+
+# Data processing
+numpy
+pandas
+pyarrow
+
+# Visualisation
+matplotlib
+plotly
+
+# Topic modelling
+bertopic
+umap-learn
+hdbscan
+scikit-learn
+sentence-transformers
+
+# Biomedical embedding models
+torch
+transformers
+
+# BERTopic model saving
+safetensors
